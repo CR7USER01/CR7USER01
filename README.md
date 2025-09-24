@@ -1,8 +1,4 @@
 
-
-https://github.com/user-attachments/assets/3ab4ea64-66ba-46a2-985d-4938ac0d9527
-
-
 ## Hi there 👋
 
 <!--
